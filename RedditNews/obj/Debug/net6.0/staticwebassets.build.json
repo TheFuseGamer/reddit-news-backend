@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qw1okcLCzNp4S2HVd2zQ6nUTqAX2F1TBlo4goPt7F/8=",
+  "Source": "RedditNews",
+  "BasePath": "_content/RedditNews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
